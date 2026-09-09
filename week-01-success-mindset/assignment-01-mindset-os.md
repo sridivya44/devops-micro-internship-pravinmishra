@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that college is not necessarily the best place to learn all of our career skills. Most of the people around me believe that if you get good grades and an A+ degree then your career will turn out great. I don't believe that because I think that college will help us with a basic foundation of knowledge, but our true learning will take place on our own and through trial and error.I think some students who maybe don't have the A+ grades can be more prepared for their career than students who are more grade focused.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Practicing makes learning easier than reading and storing in mind.
 
 ### Evidence from my life
 
-Add your answer here...
+When im having exams,I prepare for it which made my mind heavier. In place of it when I do practice on different platforms available and making a notes and learning that feels more productive and easier to understand and can remember it for longterm.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+I feel less confident when I dont put my knowledge in practicals and in implementation.
 
 ### Evidence from my life
 
-Add your answer here...
+As i studied a lot of topics and still I feel less confident beacause i didnt put my knowledge to expresss. So putting efforts into the implementation of things helps you to gain confidence.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Taking action despite fear and self-doubt creates more opportunities than waiting until I feel completely confident.
 
 ### Evidence from my life
 
-Add your answer here...
+I have lot of doubt on myself even when I put efforts in gaining knowledge .Fear stops from chasing great things .So moving into the world to show talent and show them what you can do is the one of the important thing to reach success.
 
 ---
 
@@ -131,17 +131,37 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 Include this line:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/sridivya44.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 ## Your Article
 
-Add your answer here...
+Three years ago, she was a student trying to figure out how to balance academics, coding, internships, and her personal life. Today, she has built a completely different version of herself.
+
+Her journey from being a student with scattered goals to becoming a confident software professional was not sudden. She built it through consistent effort, failures, projects, and hundreds of small improvements.
+
+She built a strong foundation in Java and Data Structures and Algorithms and used them to solve real programming problems. Instead of only watching tutorials, she started building projects and documenting what she learned. Her GitHub profile became proof of her technical growth, with properly maintained repositories, meaningful projects, and regular contributions.
+
+She completed multiple projects involving software development, cloud technologies, and DevOps. She learned how applications move from development to deployment and became comfortable working with tools such as Git, Linux, Docker, and cloud platforms. One of her major achievements was successfully deploying a project and understanding the complete workflow rather than simply following tutorials.
+
+Her communication skills also changed significantly. She became more comfortable explaining technical concepts, participating in discussions, giving presentations, and answering interview questions. She improved her ability to communicate clearly instead of being afraid of making mistakes.
+
+She also completed relevant certifications and internship experiences that strengthened her resume. Her portfolio showed actual work instead of just a list of technologies.
+
+The biggest change, however, was her mindset. She stopped waiting for motivation and developed a system for learning. She became more disciplined with her time and learned to prioritize important tasks instead of trying to do everything at once.
+
+Her consistency eventually helped her secure a software role where she contributed to real projects and worked with experienced developers. She continued learning even after getting the job instead of treating the placement as the final destination.
+
+Outside technology, she became more independent and responsible with money and personal decisions. She learned to manage her time, take care of her responsibilities, and maintain healthier relationships.
+
+Looking back, her biggest achievement was not a particular certificate, project, or job offer. It was becoming someone who could trust herself to start something difficult, stay consistent, and finish it.
+
+Her 2.0 version was not created by one big decision. It was built through thousands of small decisions made consistently.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+(https://medium.com/@basadivya18/p-s-this-post-is-part-of-the-devops-micro-internship-dmi-with-agentic-ai-cohort-3-by-pravin-38d0370eacf5?sharedUserId=basadivya18)
 
 ---
 
@@ -173,7 +193,10 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes.
+
+I have sometimes wasted a lot of time even when I knew I had important things to do. I chose comfort, entertainment, or postponed work instead of taking action. This made me feel guilty and regretful because I knew I could have used that time more productively. The gap between my goals and my actions created stress, disappointment, and frustration. It also made me realize that knowing what I should do is not enough; I need to consistently take action and be responsible for my choices.
+
 
 ---
 
@@ -199,17 +222,17 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
-
+1. Mindset - Carol S. Dweck
+2. So Good They Can't Ignore You - Cal Newport
+3. The One Thing - Gary Keller & Jay Papasan
+4. The 5 AM Club - Robin Sharma
+5. Zero to One - Peter Thiel
+6. Deep Work - Cal Newport
+7. How to Win Friends and Influence People - Dale Carnegie
+8. The 7 Habits of Highly Effective People - Stephen R. Covey
+9. Atomic Habits — James Clear
+10. The Psychology of Money — Morgan Housel
+ 
 ---
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
@@ -237,16 +260,19 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+*Learning hours per week
+Skills learned per week
+DSA problems solved
+Projects completed
+GitHub contributions
+Internship progress
+Productive hours per day
+Social media hours
+Sleep hours
+Energy level
+Money spent
+Savings
+Time spent with friends
 
 ---
 
@@ -268,11 +294,18 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+Yes.
 
 Answer:
 
-Add your answer here...
+Placement preparation
+Java
+DSA
+Aptitude
+DevOps and Agentic Ai
+Projects
+Internship
+Wipro Data analyst course
 
 ---
 
@@ -290,7 +323,13 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday:  90 min work on DSA through java
+Tuesday:  90 min work on DSA through java
+Wednesday:  2 hours DMI
+Thursday:  2 hours DMI
+Friday:  2 hours DMI
+Saturday: DMI session
+Sunday: Weekly revision + review and planning
 
 ---
 
@@ -298,11 +337,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+4 DMI sessions per week — Wednesday to Saturday, 12:00 PM–2:00 PM.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+3 deep sessions and if required one more deep session.
 
 ---
 
@@ -316,7 +355,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Follow sleep schedule
+Limit Social Media
+Take breaks on deep sessions
 
 ---
 
@@ -324,28 +365,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I can restart after downfall.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I plan things and implement them ,then I leave everything when i get distracted.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will complete the DevOps Micro-Internship on time without leaving tasks unfinished.I will work on my DMI tasks and complete the assigned work before the deadline.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+(https://lnkd.in/p/dTDr8TCa)
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: (https://lnkd.in/p/dTDr8TCa) 
+- Blog / Medium : (https://medium.com/@basadivya18/p-s-this-post-is-part-of-the-devops-micro-internship-dmi-with-agentic-ai-cohort-3-by-pravin-38d0370eacf5?sharedUserId=basadivya18) 
 
 ---
 
