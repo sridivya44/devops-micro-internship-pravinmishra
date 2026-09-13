@@ -397,13 +397,13 @@ I will complete the DevOps Micro-Internship on time without leaving tasks unfini
 
 Paste your LinkedIn post link here:
 
-(https://lnkd.in/p/dTDr8TCa)
+ (https://www.linkedin.com/posts/basa-divya-sri_devops-dmi-agenticai-share-7503496504427536384-8a4Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTrnhoBY4nd8jfd_eoq_VoxSHvRrqc3Dy0)
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: (https://lnkd.in/p/dTDr8TCa) 
+- LinkedIn Post URL: (https://www.linkedin.com/posts/basa-divya-sri_devops-dmi-agenticai-share-7503496504427536384-8a4Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTrnhoBY4nd8jfd_eoq_VoxSHvRrqc3Dy0)
 - Blog / Medium : (https://medium.com/@basadivya18/p-s-this-post-is-part-of-the-devops-micro-internship-dmi-with-agentic-ai-cohort-3-by-pravin-38d0370eacf5?sharedUserId=basadivya18) 
 
 ---
