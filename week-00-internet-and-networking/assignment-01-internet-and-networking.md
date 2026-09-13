@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/Prompt-chatgpt.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+The communication between devices in a network follows a set of rules called protocols. These protocols help devices communicate, send and receive data correctly, and identify where the data should go. Different protocols such as HTTP, HTTPS, IP, TCP, and DNS are used for different networking purposes.
 
 ---
 
@@ -59,7 +59,17 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user from any country opens the EpicReads website hosted in Finland, the data travels across the Internet using several networking concepts.
+
+Packet Switching: The user's request is divided into small packets. These packets travel through different network paths and are reassembled when they reach the EpicReads server.
+
+IP Address: Every device and server has an IP address that helps identify where data should be sent. The user's request is directed to the IP address of the EpicReads server in Finland.
+
+TCP/IP: IP handles addressing and routing the packets, while TCP helps ensure that the packets reach the destination correctly and in the proper order.
+
+HTTP/HTTPS: HTTP is used for communication between the browser and website server. HTTPS is the secure version that encrypts the communication, helping protect user data such as login details.
+
+This process allows users globally to access EpicReads even though its server is hosted in Finland.
 
 ---
 
@@ -91,7 +101,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/APPLICATION-ARCHITECTURE.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,19 +112,27 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* CSS
+* JAVASCRIPT
+* TAILWIND CSS
+* REACT CONTEXT API
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* NODE.JS & EXPRESS.JS
+* MYSQL & SEQUELIZE
+* JWT
+* BCRYPT.JS
+* CORS
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
-
+* MySQL
+* PostgreSQL
+* MongoDB
+* Oracle Database
+* Microsoft SQL Server
 ---
 
 # 🌍 Task 4: Domain Name & DNS (Basic Concepts)
@@ -142,7 +160,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is a system that converts human-readable domain names into IP addresses. It helps users access websites using easy-to-remember names instead of numerical IP addresses.
+
+For epicreads.com, an A record should be used to connect the domain to 52.172.142.222. An A record maps a domain name to an IPv4 address. Since 52.172.142.222 is an IPv4 address, the A record is the correct DNS record type. When a user enters epicreads.com, DNS finds this IP address and directs the request to the server.
 
 ---
 
@@ -178,7 +198,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/TASK-5-VSCODE.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -217,9 +237,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
+https://lnkd.in/p/ds5QX4gM
 
 ---
 
@@ -227,7 +245,25 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Week 0 of my DevOps Micro Internship (DMI) Campus Program — Agentic AI
+
+I’ve started my DevOps journey with the fundamentals of Internet, Networking, and application architecture. Here’s what I learned this week:  
+
+ChatGPT I learned how to use ChatGPT as a learning assistant to understand technical concepts in a simple way. I explored networking protocols using real-life examples.  
+
+Internet & Networking I learned how data travels across the Internet using packet switching, IP addresses, TCP/IP, and HTTP/HTTPS. I also understood how a website hosted in one country can be accessed by users globally.  
+
+App Architecture I learned the difference between 2-tier and 3-tier architecture. • 2-tier: Frontend → Database • 3-tier: Frontend → Backend → Database I also explored technologies such as HTML, CSS, JavaScript, Node.js, Express.js, and MySQL. 
+
+DNS I learned how DNS converts a human-readable domain name into an IP address and how an A record can connect a domain to an IPv4 address. 
+
+VS Code Setup I practiced using the VS Code integrated terminal and basic commands in PowerShell. Overall, Week 0 helped me understand the basic building blocks behind how applications communicate and work over the Internet. Looking forward to learning and building more in the coming weeks!
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public:  https://dmi.pravinmishra.com/s/sridivya44.html  · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus
+#DMIByPravinMishra
+
+Pravin Mishra
+Anjana Muthunayake
 
 ---
 
@@ -235,19 +271,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found learning basic networking concepts and using ChatGPT to understand technical topics easy.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+How DNS connects a domain to an IP address was a little difficult.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will improve my networking knowledge, coding skills, and hands-on DevOps practice.
 
 ---
 
