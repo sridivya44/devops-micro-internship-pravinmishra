@@ -73,8 +73,8 @@ Week 00 → Internet & Networking Basics
 Week 01 → Success Mindset 
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux & Bash for DevOps -->
 <!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
@@ -132,7 +132,7 @@ Week 01 → Success Mindset
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/basa-divya-sri_dmibypravinmishra-ugcPost-7504866161579319296-y5Uc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTrnhoBY4nd8jfd_eoq_VoxSHvRrqc3Dy0 | https://medium.com/@basadivya18/p-s-this-post-is-part-of-the-devops-micro-internship-dmi-with-agentic-ai-cohort-3-by-pravin-38d0370eacf5?sharedUserId=basadivya18 |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | (https://www.linkedin.com/posts/basa-divya-sri_devops-dmi-agenticai-share-7503496504427536384-8a4Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTrnhoBY4nd8jfd_eoq_VoxSHvRrqc3Dy0)  | https://medium.com/@basadivya18/p-s-this-post-is-part-of-the-devops-micro-internship-dmi-with-agentic-ai-cohort-3-by-pravin-38d0370eacf5?sharedUserId=basadivya18  |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/basa-divya-sri_devops-agenticai-claudecode-ugcPost-7511716323962572800-pCC5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTrnhoBY4nd8jfd_eoq_VoxSHvRrqc3Dy0 |https://medium.com/@basadivya18/exploring-agentic-ai-in-devops-lessons-from-my-week-2-0a985d5a6711|
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |

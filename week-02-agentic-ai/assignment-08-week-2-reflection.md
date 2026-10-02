@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Blog Published](screenshots\Medium-blog-week02.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+[Medium blog link](https://medium.com/@basadivya18/exploring-agentic-ai-in-devops-lessons-from-my-week-2-0a985d5a6711)
 
 ---
 
@@ -70,7 +70,7 @@ Share your Week 2 learning publicly on LinkedIn.
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![LinkedIn post week02 Agentic Ai](screenshots\Linkedin-postweek02.png)
 
 ---
 
@@ -78,15 +78,33 @@ Add your screenshot here.
 
 LinkedIn Post Content (copy-paste here):
 
-```
-Paste your LinkedIn post content here
-```
+🚀 Week 02 of my DevOps Micro Internship (DMI) Campus ProgramThis week was focused on getting hands-on with Agentic AI using Claude Code and understanding how AI can work with DevOps workflows.
+
+During Week 02, I worked on:
+🔹 Creating and using Claude Code Skills
+🔹 Configuring Subagents for tasks like Terraform writing, security auditing, and cost optimization
+🔹 Exploring MCP and tool integration
+🔹 Implementing PreToolUse and PostToolUse hooks
+🔹 Setting up permissions and command guards
+🔹 Working with Claude Code memory to retain project-specific instructions
+🔹 Using Terraform validation and automation workflowsOne of the most useful experiences was troubleshooting a Terraform hook execution issue and understanding how working directories and relative paths affect automated workflows.
+
+💡 Key takeaway: Agentic AI is more than prompting. It is about giving agents the right tools, instructions, permissions, memory, and workflows to perform tasks reliably.
+
+Looking forward to building on these concepts in DevOps, Cloud, Terraform, and Agentic AI.
+
+This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/sridivya44.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus
+
+Pravin Mishra
+Anjana Muthunayake
+
+#DevOps #AgenticAI #ClaudeCode #Terraform #MCP #Cloud #DMI #LearningJourney
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://www.linkedin.com/posts/basa-divya-sri_devops-agenticai-claudecode-ugcPost-7511716323962572800-pCC5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTrnhoBY4nd8jfd_eoq_VoxSHvRrqc3Dy0
 
 ---
 
